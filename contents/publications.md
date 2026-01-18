@@ -1,16 +1,19 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Zhou, S.</strong>, Xie, S., Yi, W., & Wang, W. (2026). Construction case-relevant article-level law identification using fine-tuned large language models: A study in China's construction industry. <strong>Advanced Engineering Informatics</strong>.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Zhou, S.</strong>, X., Li, D., Gu, T., Liu, K., Yang, Y., & Wong, M. O. (2025). Integrating domain-specific knowledge and fine-tuned general-purpose large language models for question-answering in construction engineering management. <strong>Automation in Construction</strong>. 
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Zhou, S.</strong>, Liu, K., Li, D., Fu, C., Ning, Y., Ji, W., ... & Wei, R. (2025). Augmenting general-purpose large-language models with domain-specific multimodal knowledge graph for question-answering in construction project management. <strong>Advanced Engineering Informatics</strong>. 
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Zhou, S.</strong>, Wang, H., Li, D., Ng, S. T., Wei, R., Zhao, Y., & Zhou, Y. (2024). Revealing public attitudes toward mobile cabin hospitals during Covid-19 pandemic: Sentiment and topic analyses using social media data in China. <strong>Sustainable Cities and Society</strong>. 
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- <strong>Zhou, S.</strong>, Ng, S. T., Huang, G., Dao, J., & Li, D. (2022). Extracting interrelated information from road-related social media data. <strong>Advanced Engineering Informatics</strong>. 
 
+- <strong>Zhou, S.</strong>, Ng, S. T., Yang, Y., & Xu, J. F. (2021). Integrating computer vision and traffic modeling for near-real-time signal timing optimization of multiple intersections. <strong>Sustainable Cities and Society</strong>. 
+
+- Wang, W., <strong>Zhou, S.</strong>, Li, D., Wang, Y., & Liu, X. (2025). Disentangling the non-linear relationships and interaction effects of urban digital transformation on carbon emission intensity.<strong>Urban Climate</strong>. 
+
+- <strong>Zhou, S.</strong>, Wang, H., Ng, S. T., Li, D., Xie, S., Chen, K., & Wang, W. (2025). Building a construction law knowledge repository to enhance general-purpose large language model performance on domain question-answering: a case of China. <strong>Engineering, Construction and Architectural Management</strong>. 
+
+- <strong>Zhou, S.</strong>, Man, X., Li, D., Ng, S. T., Wei, R., Xu, Y., & Yu, L. (2024). A multi-objective window placement approach using BIM and surrogate model. <strong>Developments in the Built Environment</strong>. 

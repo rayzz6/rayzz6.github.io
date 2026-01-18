@@ -1,17 +1,16 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a lecturer in the School of Civil Engineering at Southeast University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: shenghua@seu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD in Civil Engineering, The University of Hong Kong, 2018 – 2021.\
+MPhil in Management Science and Engineering, Southeast University, 2015 – 2017.\
+Exchange Student in Construction Management, National Central University, Taiwan, 2014 – 2015.\
+Bachelor of Engineering in Civil Engineering, Southeast University, 2011 – 2015.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Construction Management; Infrastructure management; LLM; Machine Learning.
 
